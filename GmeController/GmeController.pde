@@ -1,4 +1,3 @@
-
 final int screenWidth=800;
 final int screenHeight=600;
 ShapeFactory factory;
